@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1759581882 source:c:\racing team\tasks\universitymanagementsystem\scr\ums\course.cpp
+	"Course.h"
+	"Student.h"
+	"Professor.h"
+	<iostream>
+
+1759581882 c:\racing team\tasks\universitymanagementsystem\scr\ums\course.h
+	<string>
+	<vector>
+	<memory>
+
+1759581882 c:\racing team\tasks\universitymanagementsystem\scr\ums\student.h
+	<string>
+	<vector>
+	<memory>
+
+1759581882 c:\racing team\tasks\universitymanagementsystem\scr\ums\professor.h
+	<string>
+	<vector>
+	<memory>
+
+1759581882 source:c:\racing team\tasks\universitymanagementsystem\scr\ums\student.cpp
+	"Student.h"
+	"Course.h"
+	<iostream>
+
+1759581882 source:c:\racing team\tasks\universitymanagementsystem\scr\ums\university.cpp
+	"University.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<filesystem>
+
+1759581882 c:\racing team\tasks\universitymanagementsystem\scr\ums\university.h
+	<string>
+	<map>
+	<memory>
+	"Student.h"
+	"Professor.h"
+	"Course.h"
+
+1759581881 source:c:\racing team\tasks\universitymanagementsystem\scr\ums\professor.cpp
+	"Professor.h"
+	"Course.h"
+	<iostream>
+
+1759581974 source:c:\racing team\tasks\universitymanagementsystem\scr\ums\main.cpp
+	<iostream>
+	<memory>
+	<string>
+	<limits>
+	"University.h"
+
+1759581882 source:c:\racing team\tasks\ums\course.cpp
+	"Course.h"
+	"Student.h"
+	"Professor.h"
+	<iostream>
+
+1759581882 c:\racing team\tasks\ums\course.h
+	<string>
+	<vector>
+	<memory>
+
+1759581882 c:\racing team\tasks\ums\student.h
+	<string>
+	<vector>
+	<memory>
+
+1759581882 c:\racing team\tasks\ums\professor.h
+	<string>
+	<vector>
+	<memory>
+
+1759584188 source:c:\racing team\tasks\ums\main.cpp
+	<iostream>
+	<memory>
+	<string>
+	<limits>
+	"University.h"
+
+1759581882 c:\racing team\tasks\ums\university.h
+	<string>
+	<map>
+	<memory>
+	"Student.h"
+	"Professor.h"
+	"Course.h"
+
+1759581881 source:c:\racing team\tasks\ums\professor.cpp
+	"Professor.h"
+	"Course.h"
+	<iostream>
+
+1759581882 source:c:\racing team\tasks\ums\student.cpp
+	"Student.h"
+	"Course.h"
+	<iostream>
+
+1759581882 source:c:\racing team\tasks\ums\university.cpp
+	"University.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<filesystem>
+
